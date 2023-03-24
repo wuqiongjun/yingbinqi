@@ -1,0 +1,202 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - CocoaAsyncSocket (7.6.5)
+  - CYLTabBarController (1.29.0):
+    - CYLTabBarController/Core (= 1.29.0)
+  - CYLTabBarController/Core (1.29.0)
+  - IQKeyboardManager (6.5.6)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.3.0)
+  - MJRefresh (3.6.1)
+  - QCloudCore (5.5.2)
+  - QCloudCOSXML/Transfer (5.5.2):
+    - QCloudCore (= 5.5.2)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SVProgressHUD (2.2.5)
+  - TIoTLinkKit (1.4.4):
+    - TIoTLinkKit/LinkSDK (= 1.4.4)
+  - TIoTLinkKit/LinkRTC (1.4.4):
+    - TIoTLinkKit/LinkSDK
+    - TXLiteAVSDK_TRTC (= 8.0.9644)
+    - YYModel
+  - TIoTLinkKit/LinkSDK (1.4.4):
+    - CocoaAsyncSocket
+    - MBProgressHUD
+  - TLKit (0.0.27):
+    - TLKit/TLCategories (= 0.0.27)
+    - TLKit/TLFunctional (= 0.0.27)
+    - TLKit/TLShortcut (= 0.0.27)
+  - TLKit/TLCategories (0.0.27):
+    - TLKit/TLCategories/Foundation (= 0.0.27)
+    - TLKit/TLCategories/UIKit (= 0.0.27)
+  - TLKit/TLCategories/Foundation (0.0.27):
+    - TLKit/TLCategories/Foundation/NSArray (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSBundle (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSData (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSDate (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSDictionary (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSFileManager (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSMutableArray (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSMutableDictionary (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSNotificationCenter (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSObject (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSString (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSTimer (= 0.0.27)
+    - TLKit/TLCategories/Foundation/NSURL (= 0.0.27)
+  - TLKit/TLCategories/Foundation/NSArray (0.0.27)
+  - TLKit/TLCategories/Foundation/NSBundle (0.0.27)
+  - TLKit/TLCategories/Foundation/NSData (0.0.27)
+  - TLKit/TLCategories/Foundation/NSDate (0.0.27)
+  - TLKit/TLCategories/Foundation/NSDictionary (0.0.27)
+  - TLKit/TLCategories/Foundation/NSFileManager (0.0.27)
+  - TLKit/TLCategories/Foundation/NSMutableArray (0.0.27)
+  - TLKit/TLCategories/Foundation/NSMutableDictionary (0.0.27)
+  - TLKit/TLCategories/Foundation/NSNotificationCenter (0.0.27)
+  - TLKit/TLCategories/Foundation/NSObject (0.0.27)
+  - TLKit/TLCategories/Foundation/NSString (0.0.27):
+    - TLKit/TLCategories/Foundation/NSData
+  - TLKit/TLCategories/Foundation/NSTimer (0.0.27)
+  - TLKit/TLCategories/Foundation/NSURL (0.0.27)
+  - TLKit/TLCategories/UIKit (0.0.27):
+    - TLKit/TLCategories/UIKit/UIAlertView (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIBarButtonItem (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIButton (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UICollectionViewCell (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIColor (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIControl (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIImage (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UINavigationBar (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UINavigationController (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UINavigationItem (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIScrollView (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UITabBarController (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UITextField (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UITextView (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIView (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIViewController (= 0.0.27)
+    - TLKit/TLCategories/UIKit/UIWindow (= 0.0.27)
+  - TLKit/TLCategories/UIKit/UIAlertView (0.0.27)
+  - TLKit/TLCategories/UIKit/UIBarButtonItem (0.0.27)
+  - TLKit/TLCategories/UIKit/UIButton (0.0.27):
+    - TLKit/TLCategories/UIKit/UIImage
+  - TLKit/TLCategories/UIKit/UICollectionViewCell (0.0.27)
+  - TLKit/TLCategories/UIKit/UIColor (0.0.27)
+  - TLKit/TLCategories/UIKit/UIControl (0.0.27)
+  - TLKit/TLCategories/UIKit/UIImage (0.0.27)
+  - TLKit/TLCategories/UIKit/UINavigationBar (0.0.27)
+  - TLKit/TLCategories/UIKit/UINavigationController (0.0.27)
+  - TLKit/TLCategories/UIKit/UINavigationItem (0.0.27):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+  - TLKit/TLCategories/UIKit/UIScrollView (0.0.27)
+  - TLKit/TLCategories/UIKit/UITabBarController (0.0.27)
+  - TLKit/TLCategories/UIKit/UITextField (0.0.27)
+  - TLKit/TLCategories/UIKit/UITextView (0.0.27)
+  - TLKit/TLCategories/UIKit/UIView (0.0.27):
+    - TLKit/TLCategories/Foundation/NSObject
+    - TLKit/TLShortcut
+  - TLKit/TLCategories/UIKit/UIViewController (0.0.27):
+    - TLKit/TLCategories/UIKit/UIBarButtonItem
+    - TLKit/TLCategories/UIKit/UINavigationController
+    - TLKit/TLCategories/UIKit/UIView
+  - TLKit/TLCategories/UIKit/UIWindow (0.0.27)
+  - TLKit/TLFunctional (0.0.27):
+    - TLKit/TLFunctional/TLActionSheet (= 0.0.27)
+    - TLKit/TLFunctional/TLUIUtility (= 0.0.27)
+  - TLKit/TLFunctional/TLActionSheet (0.0.27)
+  - TLKit/TLFunctional/TLUIUtility (0.0.27):
+    - SVProgressHUD (~> 2.2.5)
+    - TLKit/TLCategories/UIKit/UIAlertView
+    - TLKit/TLCategories/UIKit/UIWindow
+  - TLKit/TLShortcut (0.0.27)
+  - TTTAttributedLabel (2.0.0)
+  - TXLiteAVSDK_TRTC (8.0.9644)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CYLTabBarController
+  - IQKeyboardManager
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - QCloudCOSXML/Transfer (= 5.5.2)
+  - ReactiveObjC (~> 3.1.0)
+  - SDWebImage (= 4.4.2)
+  - SVProgressHUD
+  - TIoTLinkKit
+  - TIoTLinkKit/LinkRTC
+  - TLKit (from `https://github.com/tbl00c/TLKit.git`, tag `0.0.27`)
+  - TTTAttributedLabel
+  - YYModel (= 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - CocoaAsyncSocket
+    - CYLTabBarController
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - QCloudCore
+    - QCloudCOSXML
+    - ReactiveObjC
+    - SDWebImage
+    - SVProgressHUD
+    - TIoTLinkKit
+    - TTTAttributedLabel
+    - TXLiteAVSDK_TRTC
+    - YYModel
+
+EXTERNAL SOURCES:
+  TLKit:
+    :git: https://github.com/tbl00c/TLKit.git
+    :tag: 0.0.27
+
+CHECKOUT OPTIONS:
+  TLKit:
+    :git: https://github.com/tbl00c/TLKit.git
+    :tag: 0.0.27
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CYLTabBarController: f5460b8446f82d016945d4d53895a1ef185b79e3
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 01704cca2b60a214c10761b6491eab74069d68a9
+  MJRefresh: d2c1970d1cf6e77fcfcdfe76c943dfab8dbfa5c1
+  QCloudCore: b91a762d280f0a80cc6f537fd186ac43a4a3025e
+  QCloudCOSXML: a30ab17f45b0cbbcbb218a3677298498e8748a22
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TIoTLinkKit: c3cf4aaa529fe8ccbb3e505c5cc5bedac129f194
+  TLKit: e06e6018c04c6c13a96faefe980a13ff124ebeb1
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  TXLiteAVSDK_TRTC: e3383a81565e8bb2aaaaab4bd099ad5239cd5b2d
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: c8e5b6633bb298f46c6cbbd8e920425048e58f12
+
+COCOAPODS: 1.10.1
